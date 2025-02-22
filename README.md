@@ -3,7 +3,8 @@
 
 1 zmiana
 
-meow :3
+meow :3 wof wof wof 
+:> 
 
 To jest plik readme, dodaję co uważam za słuszne, he he.
 
