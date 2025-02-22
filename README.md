@@ -3,6 +3,8 @@
 
 1 zmiana
 
+2 zmiana
+
 meow :3
 
 To jest plik readme, dodaję co uważam za słuszne, he he.
