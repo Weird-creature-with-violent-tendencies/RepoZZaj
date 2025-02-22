@@ -4,6 +4,11 @@
 1 zmiana
 
 meow :3
+meow :3
+meow :3
+meow :3
+meow :3
+meow :3
 
 To jest plik readme, dodaję co uważam za słuszne, he he.
 
